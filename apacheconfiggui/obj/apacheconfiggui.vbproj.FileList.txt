@@ -1,0 +1,10 @@
+bin\Debug\apacheconfig.exe
+bin\Debug\apacheconfig.pdb
+bin\Debug\apacheconfig.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\apacheconfig.Form1.resources
+obj\Debug\apacheconfig.Resources.resources
+obj\Debug\apacheconfig.vbproj.GenerateResource.Cache
+obj\Debug\apacheconfig.exe
+obj\Debug\apacheconfig.xml
+obj\Debug\apacheconfig.pdb
