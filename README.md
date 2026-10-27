@@ -1,5 +1,9 @@
 # Apache Config GUI
 
+<p align="center">
+  <img src=".github/logo.png" alt="apache-config-gui logo" width="128" />
+</p>
+
 A Windows Forms tool that creates Apache virtual hosts for each site
 folder on a Windows development machine.
 
